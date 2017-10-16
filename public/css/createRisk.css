@@ -1,0 +1,13 @@
+.fa-exclamation-triangle{
+    color: rgb(244, 66, 66);
+    font-size: 55px; 
+    
+}
+
+.x{
+    background:rgb(188, 5, 5);
+}
+.x:hover{
+    background: red;
+}
+

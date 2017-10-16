@@ -1,0 +1,89 @@
+.mar{
+    margin-right: 40px;
+}
+.m{
+    margin:40px;
+}
+.planifie{
+color:#121414;
+}
+.encours{
+color: #0BAFAF;
+}
+.compelte{
+color:#10ea14;
+}
+.annule{
+    color:#c11a03;
+}
+
+
+
+
+.forte{
+    color:#ff0000; 
+}
+
+.moyenne{
+    color:#ff7700;
+}
+.faible{
+    color:#049106;
+}
+.addTask{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background:  black ;
+    //box-shadow: 1px 1px 1px wheat;
+    position: absolute;
+    bottom:10px;
+    right: 30px;
+    z-index: 9999;
+    position: fixed;
+}
+.fa-plus{
+    font-size: 30px;
+    padding-top: 8px;
+    font-weight: 100;
+    color: rgba(255,165,0,0.7); 
+    transition: 0.2s;
+}
+.fa-plus:hover{
+    transition: 0.1s;
+    font-size: 33px;
+    padding-top: 8px;
+    font-weight: 100;
+    color: rgba(255,165,0,1); 
+}
+
+.tddesc{
+  width: 400px;
+  height: 20px;
+  overflow: scroll-x;
+}
+.trdesc{
+    height: 20px;
+}
+.ico{
+    color:black;
+    display: inline-block;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.ico:hover{
+    color:#FF7002;
+}
+
+.b{
+    background: transparent;
+    border: none;
+    width: 5px;
+    margin-left:5px;
+    
+}
+.risk{
+    margin-bottom: 60px;
+}
+

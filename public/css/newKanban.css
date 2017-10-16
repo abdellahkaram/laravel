@@ -1,0 +1,55 @@
+
+.center{
+    position: absolute;
+    left:0;
+    right:0;
+    margin:auto;
+   
+}
+#kanban_title{
+    font-size: 28px;
+}
+#keep{
+    font-size: 20px;
+    color:rgba(000,000,000,0.6);
+}
+#textinput{
+    
+    background: rgba(232, 235, 239,0.4);
+}
+#textarea{
+    height: 250px;
+    background: rgba(232, 235, 239,0.4);
+    outline-color: red;
+    border-color:rgba(000, 000, 000,0.3);
+    
+    
+}
+#textinput:focus{
+    outline: none !important;
+    outline-color: none;
+    border:2px solid rgba(000, 000, 000,0.3);
+    box-shadow: 0 0 10px #719ECE;
+}
+
+#textarea:focus {
+    outline: none !important;
+    outline-color: none;
+    border:2px solid rgba(000, 000, 000,0.3);
+    box-shadow: 0 0 10px #719ECE;
+}
+.btn_submit{
+    background: #5b8200;
+    height: 40px;
+    color:white;
+    font-size: 16px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    border: none;
+    transition: 0.3s;
+}
+
+.btn_submit:hover{
+    background: #8FC505;
+    transition: 0.7s;
+}

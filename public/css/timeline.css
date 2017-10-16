@@ -1,0 +1,55 @@
+.title{
+    font-family: sans-serif;
+    font-size: 35px;
+   font-weight: 100;
+   margin-bottom: 30px;
+}
+.space{
+    background:#f5f5f5;
+    padding: 10px;
+    height: 50px;
+}
+.subtitle{
+    font-weight: 100;
+    color:black;
+    font-size: 25px;
+   
+}
+.project_space{
+    padding: 10px;
+    margin-top: 10px;
+    background: white;
+}
+.project_id{
+  font-size: 20px;
+  font-weight: 300;
+}
+.project_description{
+  font-size: 15px;
+  color: rgba(10, 10, 10,0.7);
+}
+hr{
+    margin-bottom: 35px;
+}
+.spaceRight{
+    border:1px solid rgba(000, 000, 000, 0.1);
+    padding: 10px;
+    margin-bottom:25px; 
+}
+.prjimg{
+    background: olivedrab;
+}
+.prjimgR{
+    background: powderblue;
+}
+.bottomspce{
+    margin-bottom: 30px;
+    
+}
+.working_on{
+    background-color  : #2BFF00 ;
+    
+}
+.closed{
+    background-color : #740404;
+}

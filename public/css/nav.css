@@ -1,0 +1,56 @@
+/*
+.nav{
+height: 45px;
+background: black;
+}
+
+.logo{
+    display:inline-block;
+    width: 20px;
+}
+.title{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.rightnav{
+color:white;
+margin: 9px;
+background: red;
+
+
+}
+*/
+
+
+.fa-map{
+    margin-right: 15px;
+    margin-top:-2px;
+    font-size: 28px;
+    color : orange;
+}
+.navbar{
+   height: 50px;
+   background: black;
+   color: white;
+}
+.navbar > a{
+    text-decoration: none;
+}
+.fa-folder{
+    font-size: 19px;
+}
+
+.fa-globe{
+    font-size: 19px;
+}
+.fa-calendar{
+    font-size: 19px;
+}
+.logo{
+    height:30px; 
+    width:30px;
+    margin-top: -6px;
+
+}
